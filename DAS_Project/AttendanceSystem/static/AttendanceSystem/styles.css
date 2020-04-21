@@ -1,0 +1,83 @@
+/* Gives the style to the entire body*/
+.LoginBody{
+	background-image:url(LoginBackground.jpg);
+	height: 100vh;
+	font-family: "Franklin Gothic Medium", sans-serif;
+	font-size: 20px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+
+
+}
+
+
+
+
+<!-- The rest of the styles have been commented as they do not have the corresponding html tags in html files. They can be used once we create the tags -->
+
+/*Sets the position of the long light white box */
+/*.login-page{
+	width: 360px;
+	padding:100px;
+	margin: auto;	
+}
+
+/*Styles the light white box */
+/*.form{
+	
+	position: relative;
+	z-index: 1;
+	background: rgb(224, 224, 239,0.9);
+	margin: auto;
+	text-align: left;
+	border-radius: 25px;
+	padding: 40px;
+	width: 400px;
+	height: 360px;
+}
+/*Styles the boxes and font of name etc */
+/*.form input{
+	font-family: "Franklin Gothic Medium", sans-serif;
+	background: #f2f2f2;
+	width:100%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 12px;
+	box-sizing: border-box;
+	font-size: 17px;	
+	
+}
+
+/*Styles the Register button */
+/*.register input{
+	font-family: "Franklin Gothic Medium", sans-serif;
+	outline: 0;
+	background: #231d82;		/*Green color button*/
+/*	width: 40%;
+	border: 0;
+	color: #ffffff;
+	font-size: 14px;
+	padding: 10px;
+	cursor: pointer;
+	text-transform:uppercase;
+}
+
+.form button{
+	font-family: "Franklin Gothic Medium", sans-serif;
+	outline: 0;
+	background: #116928;		/*Green color button*/
+/*	width: 40%;
+	border: 0;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 10px;
+	cursor: pointer;
+	text-transform:uppercase;
+}
+
+
+
+
+
+
